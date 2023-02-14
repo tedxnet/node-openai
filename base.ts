@@ -18,7 +18,7 @@ import { Configuration } from "./configuration";
 // @ts-ignore
 import globalAxios, { AxiosPromise, AxiosInstance, AxiosRequestConfig } from 'axios';
 
-export const BASE_PATH = "https://apipro.tedx.net/v1".replace(/\/+$/, "");
+export const BASE_PATH = "https://pro-api.tedx.net/v1".replace(/\/+$/, "");
 
 /**
  *

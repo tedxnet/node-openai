@@ -17,7 +17,7 @@ exports.RequiredError = exports.BaseAPI = exports.COLLECTION_FORMATS = exports.B
 // Some imports not used depending on template conditions
 // @ts-ignore
 const axios_1 = require("axios");
-exports.BASE_PATH = "https://apipro.tedx.net/v1".replace(/\/+$/, "");
+exports.BASE_PATH = "https://pro-api.tedx.net/v1".replace(/\/+$/, "");
 /**
  *
  * @export
