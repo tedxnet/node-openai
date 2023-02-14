@@ -1,10 +1,10 @@
 {
   "name": "openaipro",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Node.js library for the OpenAI API Pro",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/openai/openai-node.git"
+    "url": "git+ssh://git@github.com:tedxnet/node-openai.git"
   },
   "keywords": [
     "openai",
@@ -29,7 +29,7 @@
     "typescript": "^3.6.4"
   },
   "bugs": {
-    "url": "https://github.com/openai/openai-node/issues"
+    "url": "https://github.com/tedxnet/node-openai/issues"
   },
-  "homepage": "https://github.com/openai/openai-node#readme"
+  "homepage": "https://github.com/tedxnet/node-openai#readme"
 }
